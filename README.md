@@ -1,8 +1,4 @@
-# buildspace
-music recommender system project
+# sangeet
+indian songs genre classification and recommender system 
 
-deciding between content based and collabarative filtering was not a very hard choice. Honestly 
-for this, content based filtering was the way to go.
-
-
-this would initially a scratchy attempt at making a recommender system, hopefully I finetune it soon enough later tho.
+A lot of work in this area has been done in case of western music, while it is not the case with indian music
